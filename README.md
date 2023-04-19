@@ -1,1 +1,1 @@
-# React
+# Curso da Rocketseat de Reactjs
